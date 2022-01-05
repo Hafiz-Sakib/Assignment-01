@@ -1,0 +1,39 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
+}
+.dream {
+  color: #ff5f1f;
+}
+.for-border {
+  border-left: 5px solid #00008b;
+  border-radius: 3px;
+  border-bottom-left-radius: 0px;
+  border-collapse: separate;
+  font-size: 35px;
+  font-style: italic;
+}
+.first-paragraph {
+  text-align: justify;
+}
+.Dream {
+  color: #fa5f55;
+}
+.Contact {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 7px;
+}
+.first-section img {
+  width: 80%;
+  margin-left: 200px;
+  margin-bottom: 300px;
+}
+.first-section {
+  display: flex;
+  width: 80%;
+  padding: 80px;
+}
