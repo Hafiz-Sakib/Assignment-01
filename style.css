@@ -60,10 +60,22 @@ body {
 }
 .flex-row-item-one {
   background-color: #edf5f6;
+  margin: 15px;
+  padding: 30px;
+  border-radius: 30px;
 }
 .flex-row-item-two {
   background-color: #ffeeee;
+  margin: 15px;
+  padding: 30px;
+  border-radius: 30px;
 }
 .flex-row-item-three {
   background-color: #fff4d6;
+  margin: 15px;
+  padding: 30px;
+  border-radius: 30px;
+}
+.flex-row-container {
+  display: flex;
 }
