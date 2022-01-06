@@ -26,6 +26,7 @@ body {
   font-weight: 700;
   padding: 10px 40px;
   border-radius: 7px;
+  font-size: small;
 }
 .first-section img {
   width: 80%;
@@ -78,4 +79,28 @@ body {
 }
 .flex-row-container {
   display: flex;
+  margin-bottom: 200px;
+}
+.third-section {
+  display: flex;
+}
+.third-section {
+  font-weight: 600;
+  font-size: 25px;
+}
+.dev-limit {
+  color: #6047ec;
+}
+.without-limits {
+  text-align: justify;
+  font-size: 20px;
+  font-weight: 0;
+}
+.third-section img {
+  width: 250%;
+  margin-left: 50px;
+}
+.paragraph-container {
+  margin-left: 400px;
+  text-align: justify;
 }
