@@ -16,6 +16,10 @@ body {
 .first-paragraph {
   text-align: justify;
 }
+.first-section {
+  background-image: url(images/bg/top-banner.png);
+  background-repeat: no-repeat;
+}
 .Dream {
   color: #fa5f55;
 }
