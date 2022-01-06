@@ -30,10 +30,40 @@ body {
 .first-section img {
   width: 80%;
   margin-left: 200px;
-  margin-bottom: 300px;
 }
 .first-section {
   display: flex;
   width: 80%;
   padding: 80px;
+}
+.second-heading {
+  color: #00008b;
+  font-weight: 900;
+  font-size: 38px;
+  text-align: center;
+}
+#year {
+  color: #ff5f1f;
+}
+.illustrators {
+  margin-left: 200px;
+  width: 10%;
+}
+.second-paragraph {
+  text-align: justify;
+}
+.third-paragraph {
+  text-align: justify;
+}
+.fourth-paragraph {
+  text-align: justify;
+}
+.flex-row-item-one {
+  background-color: #edf5f6;
+}
+.flex-row-item-two {
+  background-color: #ffeeee;
+}
+.flex-row-item-three {
+  background-color: #fff4d6;
 }
