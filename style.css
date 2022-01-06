@@ -79,7 +79,7 @@ body {
 }
 .flex-row-container {
   display: flex;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
   padding: 100px;
 }
 .third-section {
@@ -104,4 +104,77 @@ body {
 .paragraph-container {
   margin-left: 400px;
   text-align: justify;
+  margin-bottom: 300px;
+}
+.fourth-section {
+  margin-top: -100px;
+}
+.community {
+  color: #622eef;
+  font-weight: 700;
+}
+.paragraph-part {
+  font-weight: 300;
+  text-align: justify;
+}
+.p-hero-tag {
+  font-size: 2em;
+}
+.second-last {
+  display: flex;
+  width: 50%;
+  margin: 100px;
+}
+.second-last img {
+  width: 400%;
+  margin-left: 150px;
+}
+.app {
+  color: red;
+  font-size: 40px;
+}
+#app {
+  font-size: 40px;
+}
+.last-heading {
+  text-align: center;
+}
+.stay-safe {
+  font-size: 40px;
+}
+.go-corona {
+  font-size: 40px;
+}
+.corona {
+  color: orangered;
+  font-size: 40px;
+}
+.last-part {
+  display: flex;
+  width: 100%;
+  margin-bottom: 120px;
+}
+.last-part img {
+  width: 375px;
+  margin-left: 175px;
+}
+.last-paragraph {
+  margin-left: 250px;
+  text-align: justify;
+}
+.shal {
+  color: red;
+}
+.mission {
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: white;
+}
+.me {
+  text-align: center;
+  color: white;
+}
+.copyright {
+  background-color: #0b0d17;
 }
